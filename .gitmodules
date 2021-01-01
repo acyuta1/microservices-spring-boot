@@ -1,0 +1,18 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/acyuta1/user-service
+[submodule "spring-cloud-config-server"]
+	path = spring-cloud-config-server
+	url = https://github.com/acyuta1/spring-cloud-config-server
+[submodule "netflix-zuul-api-gateway-server"]
+	path = netflix-zuul-api-gateway-server
+	url = https://github.com/acyuta1/netflix-zuul-api-gateway-server
+[submodule "netflix-eureka-naming-server"]
+	path = netflix-eureka-naming-server
+	url = https://github.com/acyuta1/netflix-eureka-naming-server
+[submodule "limits-service"]
+	path = limits-service
+	url = https://github.com/acyuta1/limits-service
+[submodule "comments-service"]
+	path = comments-service
+	url = https://github.com/acyuta1/comments-service
